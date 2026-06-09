@@ -1,4 +1,4 @@
-```markdown
+markdown
 # ImageDuplicateDetector
 
 A clean, dark industrial-themed tool designed to scan, group, and manage duplicate or visually similar images using perceptual hashing.
@@ -60,4 +60,3 @@ java -jar target/ImageDuplicateDetector-1.0-SNAPSHOT.jar
 
 ```
 
-```
