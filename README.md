@@ -1,5 +1,3 @@
-Here is the updated README markdown including the build and run instructions:
-
 ```markdown
 # ImageDuplicateDetector
 
